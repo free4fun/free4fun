@@ -47,6 +47,10 @@ En cuanto a la terminología, es importante respetar las preferencias de la pers
 
 - En lo personal agradecería que se refieran a mi estado de salud mental como mi diagnóstico, o si se quiere mi diagnóstico de salud mental, y nunca cómo mi enfermedad mental o mi patología. También puede utilizarse la palabra mi bug en mi kernel, si se quiere diversión.
 
+## Desafío de Diferenciar Mi Carácter de Mi Diagnóstico
+
+En ocasiones, me enfrento al desafío de que los demás confundan mi carácter con mi diagnóstico de esquizofrenia paranoide, lo cual no solo es complicado para mí, sino también para quienes me rodean. Mi diagnóstico no define quién soy como persona, pero comprendo que puede afectar la forma en que algunas personas me perciben y reaccionan ante mí. Es fundamental recordar que, detrás del diagnóstico, sigo siendo un individuo con mis propios intereses, emociones y deseos, al igual que todas las demás personas necesito comprensión y paciencia para superar estas barreras, y así, juntos, podamos construir relaciones más sólidas y significativas.
+
 ## Contribuciones
 
 Las contribuciones a este repositorio son bienvenidas. Si tienes sugerencias o mejoras en las recomendaciones, no dudes en abrir un "issue" o enviar una solicitud de cambio ("pull request").
