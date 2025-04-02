@@ -1,18 +1,29 @@
-name: Update README with recent activity
+name: Update README
 
 on:
   schedule:
-    - cron: '0 * * * *' # Ejecuta cada hora
+    - cron: '0 0 * * *'  # Actualiza el gráfico cada día a medianoche
   workflow_dispatch:
 
 jobs:
   update-readme:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout
+      - name: Checkout Repository
         uses: actions/checkout@v2
 
-      - name: Update README
-        uses: readme-activity-graph/github-activity-readme@latest
+      - name: Generate Activity Graph
+        uses: Ashutosh00710/github-readme-activity-graph@master
         with:
-          token: ${{ secrets.GITHUB_TOKEN }}
+          username: free4fun
+          theme: react-dark
+          hide_border: true
+          area: true
+
+      - name: Commit and Push
+        run: |
+          git config --global user.name 'free4fun'
+          git config --global user.email 'your-email@example.com'
+          git add README.md
+          git commit -m "Update activity graph"
+          git push
