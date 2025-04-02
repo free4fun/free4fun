@@ -133,7 +133,7 @@ I'm currently working on **Blockchain technologies**, focusing on **Web3 infrast
 
 # Contribution Heatmap
 <div align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=free4fun&theme=dark&hide_border=true&area=true" width="80%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=free4fun&theme=react-dark&hide_border=true&area=true" width="80%"/>
 </div>
 
 ---
