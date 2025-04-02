@@ -124,8 +124,6 @@ I'm currently working on **Blockchain technologies**, focusing on **Web3 infrast
 </div>
 
 ---
-
-
 # GitHub Trophies
 <div align="center">
 
