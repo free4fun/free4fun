@@ -155,7 +155,7 @@ If you appreciate my work and would like to support me:
 - **Donate with ETH or any EVM-compatible token by scanning the QR code below:**
 
 <div align="center">
-  <img src="https://www.github.com/free4fun/assets/qr-code-free4fun.gif" alt="Donate to free4fun.eth" width="300"/>
+  <img src="/assets/qr-code-free4fun.gif" alt="Donate to free4fun.eth" width="300"/>
 </div>
 
 ---
